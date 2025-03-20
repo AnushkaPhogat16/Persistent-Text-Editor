@@ -50,4 +50,4 @@ Persistent-Text-Editor/ ├── Makefile ├── main.cpp ├── Rope.h �
 ### Running the Editor
 Run the following command to launch the editor:
    ```bash
-   ./edit 
+   ./editor
