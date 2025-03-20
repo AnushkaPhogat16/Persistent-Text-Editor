@@ -10,7 +10,8 @@ struct RopeNode{
     RopeNode* right; 
     string str;  //Stores actual string (only in leaf nodes)
     int weight; //Length of left subtree (or length of str if leaf node)
-
+    int totalWeight; //total length of rope rooted at this node
+    
     //constructor for leaf node
     RopeNode(const string& s);
 
