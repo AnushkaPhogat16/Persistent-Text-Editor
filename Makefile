@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++11 -02 -Wall
+CXXFLAGS = -std=c++11 -O2 -Wall
 
 all: editor
 

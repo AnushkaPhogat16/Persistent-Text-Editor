@@ -16,7 +16,7 @@ int main(){
     RopeNode* initial = buildRope("");
     versionHistory.push_back(initial);
 
-    cout << " ✨Welcome to Persistent Text Editor! ✨ \n";
+    cout << " Welcome to Persistent Text Editor!\n";
     cout << "========================================\n";
     cout << " Available Commands: <3 \n";
     cout << "-----------------------------------------\n";
@@ -28,7 +28,7 @@ int main(){
     cout << "  exit                 -- Quit the editor" << endl;
 
     cout << "-----------------------------------------\n";
-    cout << "💡 Edit, save, and persist like a pro!\n";
+    cout << "Edit, save, and persist like a pro!\n";
     cout << "=========================================\n";
 
 
